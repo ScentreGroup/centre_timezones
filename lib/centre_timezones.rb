@@ -14,6 +14,7 @@ module CentreTimezones
     "belconnen"                  => "Australia/ACT",
     "beldenvillage"              => "US/Eastern",
     "bondijunction"              => "Australia/NSW",
+    "booragoon"                  => "Australia/West",
     "bradford"                   => "Europe/London",
     "brandon"                    => "US/Eastern",
     "broward"                    => "US/Eastern",
